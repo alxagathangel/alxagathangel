@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data analysis and visualization.**
 
+- 🤝 Latest project: [E-Commerce Web Scrapper](https://github.com/alxagathangel/Ergasia-2023-24/tree/1776/projects/1776)
+
 - 📫 How to reach me **alx.agathangel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
