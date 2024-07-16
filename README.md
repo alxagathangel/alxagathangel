@@ -5,9 +5,9 @@
 
 - 🤝 Latest project: [E-Commerce Web Scrapper](https://github.com/alxagathangel/Ergasia-2023-24/tree/1776/projects/1776)
 
-- 📫 How to reach me **alx.agathangel@gmail.com**
+- 📫 Contact me: **alx.agathangel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/alxaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alxaga/" height="30" width="40" /></a>
 <a href="https://discord.gg/aleeexx0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aleeexx0305" height="30" width="40" /></a>
