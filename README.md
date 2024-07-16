@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi, I'm Alex!</h1>
 <h3 align="center">Aspiring Backend Developer with an interest in Data Science and QA.</h3>
 
-- 🌱 I’m currently learning **Data analysis and visualization.**
+- 🌱 I’m currently learning **Data analysis and Visualization.**
 
 - 🤝 Latest project: [E-Commerce Web Scrapper](https://github.com/alxagathangel/Ergasia-2023-24/tree/1776/projects/1776)
 
