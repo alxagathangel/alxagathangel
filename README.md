@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Aspiring Backend Developer with an interest in Data Science and QA..</h3>
+<h3 align="center">Aspiring Backend Developer with an interest in Data Science and QA.</h3>
 
 - 🌱 I’m currently learning **Data analysis and visualization.**
 
