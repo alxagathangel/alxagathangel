@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 🤝 Latest project: [here](https://alxagathangel.github.io/my-Portfolio/)
+- 🤝 Portfolio: [here](https://alxagathangel.github.io/my-Portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://alxagathangel.github.io/my-Portfolio/](https://alxagathangel.github.io/my-Portfolio/)
 
