@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an Automatic Mailing System](https://github.com/alxagathangel/Auto-CVSM)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Assembly**
 
 - 👨‍💻 All of my projects are available [here](https://alxagathangel.github.io/my-Portfolio/)
 
