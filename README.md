@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Aspiring Backend Developer with an interest in Data Science and QA.</h3>
 
-- 🔭 I’m currently working on [an Automatic Mailing System](https://github.com/alxagathangel/Auto-CVSM)
+- 🔭 I’m currently working on [a mockup website](https://github.com/alxagathangel/Cooking-In-Uni)
 
 - 🌱 I’m currently learning **Assembly**
 
