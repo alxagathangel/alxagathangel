@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Aspiring Backend Developer with an interest in Data Science and QA.</h3>
 
-- 🔭 I’m currently working on [a mockup website](https://github.com/alxagathangel/Cooking-In-Uni)
+- 🔭 I’m currently working on my dissertation
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **DES**
 
 - 👨‍💻 All of my projects are available [here](https://alxagathangel.github.io/my-Portfolio/)
 
