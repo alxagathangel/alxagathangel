@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my dissertation
 
-- 🌱 I’m currently learning **DES**
+- 🌱 I’m currently learning **DES** and building a hospital optimization model.
 
 - 👨‍💻 All of my projects are available [here](https://alxagathangel.github.io/my-Portfolio/)
 
